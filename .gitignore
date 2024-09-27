@@ -1,2 +1,2 @@
-password.txt
-*.c
+#include <stdio.h>
+
